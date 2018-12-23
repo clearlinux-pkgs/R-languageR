@@ -4,7 +4,7 @@
 #
 Name     : R-languageR
 Version  : 1.4.1
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/languageR_1.4.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/languageR_1.4.1.tar.gz
 Summary  : Data sets and functions with "Analyzing Linguistic Data: A

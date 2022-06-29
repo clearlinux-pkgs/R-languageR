@@ -4,7 +4,7 @@
 #
 Name     : R-languageR
 Version  : 1.5.0
-Release  : 34
+Release  : 35
 URL      : https://cran.r-project.org/src/contrib/languageR_1.5.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/languageR_1.5.0.tar.gz
 Summary  : Analyzing Linguistic Data: A Practical Introduction to
